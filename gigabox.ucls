@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="true" generalizations="true" realizations="true" 
+  associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.mega.mvc01.TheaterDTO" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/TheaterDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1611" y="890"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.mega.mvc01.EveDAO" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/EveDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="166" x="24" y="-31"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.mega.mvc01.MovieListDAO" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/MovieListDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="273" x="662" y="-31"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.mega.mvc01.MovieListController" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/MovieListController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="201" x="421" y="-31"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.mega.mvc01.PersonalInformDTO" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/PersonalInformDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3610" y="597"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.mega.mvc01.BbsDAO" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/BbsDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1171" y="198"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="7" language="java" name="com.mega.mvc01.MovieDAOinterface" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/MovieDAOinterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1983" y="231"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="8" language="java" name="com.mega.mvc01.MovieReviewDTO" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/MovieReviewDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="735" y="711"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.mega.mvc01.BookingDTO" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/BookingDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2401" y="568"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.mega.mvc01.MovieDAO" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/MovieDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="165" x="1838" y="-31"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="11" language="java" name="com.mega.mvc01.MovieListDAOinterface" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/MovieListDAOinterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="713" y="289"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="12" language="java" name="com.mega.mvc01.PersonalInformController" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/PersonalInformController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="289" x="3159" y="-31"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.mega.mvc01.ProductListDTO" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/ProductListDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3952" y="374"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="14" language="java" name="com.mega.mvc01.BookingDAOinterface" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/BookingDAOinterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2410" y="212"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="15" language="java" name="com.mega.mvc01.BbsDAOinterface" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/BbsDAOinterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1345" y="815"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="16" language="java" name="com.mega.mvc01.ProductListDAOinterface" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/ProductListDAOinterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3963" y="152"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="17" language="java" name="com.mega.mvc01.MovieListDAO1" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/MovieListDAO1.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="223" x="2672" y="-31"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.mega.mvc01.BookingDAO" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/BookingDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="165" x="2284" y="-31"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="19" language="java" name="com.mega.mvc01.StoreDAOinterface" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/StoreDAOinterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4335" y="146"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="20" language="java" name="com.mega.mvc01.BookingController" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/BookingController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="143" x="2489" y="-31"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="21" language="java" name="com.mega.mvc01.TheaterDAOinterface" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/TheaterDAOinterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1707" y="239"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="22" language="java" name="com.mega.mvc01.TheaterController" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/TheaterController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="201" x="2043" y="-31"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="com.mega.mvc01.EveController2" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/EveController2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="151" x="230" y="-31"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="com.mega.mvc01.ProductListController" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/ProductListController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="146" x="3803" y="-31"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="com.mega.mvc01.StoreDAO" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/StoreDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="142" x="4180" y="-31"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="com.mega.mvc01.CreateAskDTO" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/CreateAskDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1040" y="806"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="27" language="java" name="com.mega.mvc01.MovieListDAO1interface" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/MovieListDAO1interface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2878" y="199"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="28" language="java" name="com.mega.mvc01.MovieListController1" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/MovieListController1.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="184" x="2935" y="-31"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="com.mega.mvc01.StoreController" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/StoreController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="131" x="4362" y="-31"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="30" language="java" name="com.mega.mvc01.PersonalInformDAOinterface" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/PersonalInformDAOinterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3315" y="392"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="31" language="java" name="com.mega.mvc01.EveDTO" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/EveDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="164" y="525"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="com.mega.mvc01.ProductListDAO" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/ProductListDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="151" x="3989" y="-31"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="33" language="java" name="com.mega.mvc01.EveDAOinterface" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/EveDAOinterface.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="176" y="259"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="34" language="java" name="com.mega.mvc01.TheaterDAO" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/TheaterDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="195" x="1603" y="-31"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="com.mega.mvc01.ApiExamSearchBlog" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/ApiExamSearchBlog.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="416" y="208"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="com.mega.mvc01.MovieListDTO1" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/MovieListDTO1.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2874" y="670"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="com.mega.mvc01.BbsController" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/BbsController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1461" y="170"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="com.mega.mvc01.MovieDTO" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/MovieDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2001" y="637"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="com.mega.mvc01.MovieListDTO" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/MovieListDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="422" y="704"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="com.mega.mvc01.PersonalInformDAO" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/PersonalInformDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="3607" y="99"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="com.mega.mvc01.StoreDTO" project="spring01" 
+    file="/spring01/src/main/java/com/mega/mvc01/StoreDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="4324" y="402"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="42">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="43" name="dao3"/>      
+      <multiplicity id="44" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="45">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="35"/>  
+  </dependency>  
+  <dependency id="46">    
+    <bendpoint x="239" y="468"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="31"/>  
+  </dependency>  
+  <dependency id="47">    
+    <bendpoint x="2052" y="468"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="38"/>  
+  </dependency>  
+  <dependency id="48">    
+    <bendpoint x="3812" y="468"/>    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="49">    
+    <bendpoint x="1566" y="468"/>    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="50">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="51">    
+    <bendpoint x="1828" y="468"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="52">    
+    <bendpoint x="984" y="468"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <association id="53">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="54" name="dao"/>      
+      <multiplicity id="55" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="56">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="15"/>  
+  </realization>  
+  <association id="57">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="58" name="dao"/>      
+      <multiplicity id="59" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="60">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="61" name="dao"/>      
+      <multiplicity id="62" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="63">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="33"/>  
+  </realization>  
+  <realization id="64">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <dependency id="65">    
+    <bendpoint x="566" y="468"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="66">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <realization id="67">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <dependency id="68">    
+    <bendpoint x="4189" y="468"/>    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="41"/>  
+  </dependency>  
+  <realization id="69">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="21"/>  
+  </realization>  
+  <dependency id="70">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="71">    
+    <bendpoint x="2498" y="468"/>    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="72">    
+    <bendpoint x="942" y="468"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="73">    
+    <bendpoint x="1857" y="468"/>    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="38"/>  
+  </dependency>  
+  <dependency id="74">    
+    <bendpoint x="41" y="468"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="31"/>  
+  </dependency>  
+  <realization id="75">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <association id="76">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="77" name="dao"/>      
+      <multiplicity id="78" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="79">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="80">    
+    <bendpoint x="3168" y="468"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="81">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <realization id="82">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="30"/>  
+  </realization>  
+  <dependency id="83">    
+    <bendpoint x="587" y="468"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <association id="84">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="85" name="dao"/>      
+      <multiplicity id="86" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="87">    
+    <bendpoint x="1448" y="468"/>    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <association id="88">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="89" name="dao"/>      
+      <multiplicity id="90" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="91">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="31"/>  
+  </dependency>  
+  <dependency id="92">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="36"/>  
+  </dependency>  
+  <association id="93">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="94" name="dao"/>      
+      <multiplicity id="95" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="96">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="97">    
+    <bendpoint x="1406" y="468"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <association id="98">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="99" name="dao"/>      
+      <multiplicity id="100" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="101">    
+    <bendpoint x="963" y="468"/>    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="102">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="103">    
+    <bendpoint x="2965" y="468"/>    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="36"/>  
+  </dependency>  
+  <dependency id="104">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <association id="105">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="106" name="dao"/>      
+      <multiplicity id="107" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="108">    
+    <bendpoint x="1427" y="468"/>    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <dependency id="109">    
+    <bendpoint x="1026" y="468"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <realization id="110">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <dependency id="111">    
+    <bendpoint x="4039" y="468"/>    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <dependency id="112">    
+    <bendpoint x="2681" y="468"/>    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="36"/>  
+  </dependency>  
+  <dependency id="113">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="41"/>  
+  </dependency>  
+  <dependency id="114">    
+    <bendpoint x="4385" y="468"/>    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="41"/>  
+  </dependency>  
+  <dependency id="115">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="38"/>  
+  </dependency>  
+  <dependency id="116">    
+    <bendpoint x="1005" y="468"/>    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="117">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="118">    
+    <bendpoint x="921" y="468"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="119">    
+    <bendpoint x="2290" y="468"/>    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <association id="120">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="121" name="dao2"/>      
+      <multiplicity id="122" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="123">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="16"/>  
+  </realization>  
+  <realization id="124">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="27"/>  
+  </realization>  
+  <dependency id="125">    
+    <bendpoint x="2171" y="468"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <dependency id="126">    
+    <bendpoint x="1047" y="468"/>    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="39"/>  
+  </dependency>  
+  <dependency id="127">    
+    <bendpoint x="3504" y="468"/>    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <dependency id="128">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
